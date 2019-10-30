@@ -4,4 +4,8 @@ LeaveHelper is a command line app written in Java that allows you to keep a reco
 
 The app is based on an annual leave allocation (# days) which applies for a calendar year only i.e. you are constrained to making leave bookings within the year. You set your allocation at the beginning. You can make bookings as long as you have enough days of annual leave remaining.
 
-edit to test Github, missing package references locally for collect and joda
+To run it open a termnial and type
+```
+javac LeaveHelper.java
+```
+...option info to follow
