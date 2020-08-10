@@ -28,7 +28,7 @@ public class LeaveHelper {
         String n = scanner.next();
         int num = Integer.parseInt(n);
         Allocation myAlloc = new Allocation(num);
-        System.out.println("You have been granted " + myAlloc.getAllocDays() + " days of annual leave.");;
+        System.out.println("You have been granted " + myAlloc.getAllocDays() + " days of annual leave.");
 
         while (true) {
             System.out.println("Choose from the following options:");
